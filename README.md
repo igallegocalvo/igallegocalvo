@@ -24,6 +24,7 @@ Coming soon
 ![PenPot](https://img.shields.io/badge/Penpot-%23000000?style=flat&logo=Penpot&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-%23FF3366?logo=adobe%20InDesign&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=flat&logo=Adobe%20XD&logoColor=white)
 #### Web
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
