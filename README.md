@@ -78,12 +78,12 @@ Coming soon
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=igallegocalvo&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
-
+-->
 <details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igallegocalvo&layout=compact">
 </details>
--->
+
 
 <!--
 **igallegocalvo/igallegocalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
